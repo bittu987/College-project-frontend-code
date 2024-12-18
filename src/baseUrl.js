@@ -1,3 +1,3 @@
 export const baseApiURL = () => {
-  return "http://localhost:5000/api";
+  return "https://college-project-nodejs.vercel.app/api";
 };
