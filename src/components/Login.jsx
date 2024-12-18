@@ -21,7 +21,7 @@ const Login = () => {
       // console.log("Selected role:", selected);
       
       const apiUrl = `${process.env.REACT_APP_APILINK}/${selected}/auth/login`;
-      // const apiUrl = "http://localhost:5000/api/admin/auth/login"
+      // const apiUrl = "http://localhost:5000/api/Admin/auth/login"
       
       // console.log("API URL:", apiUrl); 
 
